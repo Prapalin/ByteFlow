@@ -11,8 +11,8 @@ export default function Navbar(){
                         <img src="./logo.png" alt="logo" className="w-6 h-6 sm:w-8 sm:h-8" />
                     </div>
                     <span className="text-lg sm:text-xl md:text-2xl font-medium">
-                        <span className="text-blue-400">Nova</span>
-                        <span className="text-white">UI</span>
+                        <span className="text-white">Byte</span>
+                        <span className="text-blue-400">Flow</span>
                     </span>
                 </div>
                 {/* Nav links */}
